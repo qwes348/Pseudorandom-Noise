@@ -2,6 +2,7 @@ using Unity.Mathematics;
 
 using static Unity.Mathematics.math;
 
+// 스태틱 확장함수 추가해주는 클래스
 public static class MathExtensions
 {
 
